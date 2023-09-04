@@ -1,35 +1,31 @@
-### Hi there, I'm Rahul! 👋
+### Hi there !!! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25" height="21" />
+### This is Rahul, a curious developer !
 
-🌱 Welcome to my GitHub page!
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rahulm499)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-mittal-rm)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mittalrahul018@gmail.com)
+[![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/mittal499/)
 
-I'm a curious developer and a graduate from IIIT Gwalior. 
+### 🌱 Welcome to my Github page !    
+I am a Backend Developer and '23 Graduate from IIIT Gwalior.
 
-Fueling the digital world with the power of Backend Technologies and guarding it with the vigilance of Cybersecurity 🕵️‍♂️.
-#### Connect with Me:
+Fueling the digital world with the power of Back-end Web Technologies and guarding it with the vigilance of Cybersecurity 🕵️‍♂️.
 
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-blue)](https://github.com/rahulm499) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/rahul-mittal-rm) [![Gmail](https://img.shields.io/badge/Gmail-Contact-red)](mailto:mittalrahul018@gmail.com) [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-yellow)](https://leetcode.com/mittal499/)
+💙 **Opensource**
 
-
-
-#### 💙 Back-end Development
-
-### 💻 Programming Languages and Tools:
-
-- [List your programming languages and tools here]
-
-
-
-<!--
-**rahulm499/rahulm499** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### :computer: Programming languages and tools: 
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height= 50 rem/>          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height= 50 rem/>          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height= 50 rem/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height= 50 rem/>   
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height=50 rem/>          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height= 50 rem/>          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height= 50 rem/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" height= 50 rem/>   
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height= 50 rem/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height= 50 rem/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height= 50 rem/>          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height= 50 rem/>          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height= 50 rem/>  
+</p>
