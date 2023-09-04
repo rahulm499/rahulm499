@@ -1,8 +1,9 @@
-## Hi there, I'm Rahul! 👋
+### Hi there, I'm Rahul! 👋
 
 🌱 Welcome to my GitHub page!
 
 I'm a curious developer and a graduate from IIIT Gwalior. 
+
 Fueling the digital world with the power of Backend Technologies and guarding it with the vigilance of Cybersecurity 🕵️‍♂️.
 ### Connect with Me:
 
@@ -11,7 +12,7 @@ Fueling the digital world with the power of Backend Technologies and guarding it
 - [Gmail](mailto:mittalrahul018@gmail.com)
 - [LeetCode](https://leetcode.com/mittal499/)
 
-### 💙 Back-end Development
+# 💙 Back-end Development
 
 ### 💻 Programming Languages and Tools:
 
