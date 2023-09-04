@@ -11,7 +11,7 @@ I am a Backend Developer and '23 Graduate from IIIT Gwalior.
 
 Fueling the digital world with the power of Back-end Web Technologies and guarding it with the vigilance of Cybersecurity 🕵️‍♂️.
 
-💙 **Opensource**
+💙 **Problem Solving**
 
 ### :computer: Programming languages and tools: 
 <p>
