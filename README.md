@@ -13,7 +13,7 @@ Fueling the digital world with the power of Back-end Web Technologies and guardi
 
 💙 **Problem Solving**
 
-![TryHackMe Badge](16bit.png)
+[![TryHackMe Badge](16bit.png)](https://tryhackme.com/p/16bit)
 
 
 ### :computer: Programming languages and tools: 
