@@ -13,6 +13,8 @@ Fueling the digital world with the power of Back-end Web Technologies and guardi
 
 💙 **Problem Solving**
 
+<img src="https://tryhackme-badges.s3.amazonaws.com/16bit.png" alt="TryHackMe">
+
 ### :computer: Programming languages and tools: 
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height= 50 rem/>          
